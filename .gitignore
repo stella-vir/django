@@ -1,4 +1,5 @@
-.venv
+.venv/
+myvenv/
 
 # cache
 .DS_Store
